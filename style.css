@@ -1,0 +1,188 @@
+body{
+margine:0;
+padding:0;
+font-family:'Open Sans',sans-serif;
+}
+
+.fixed-bar{
+	position:fixed;
+	top:0;
+	width:100%;
+	border-bottom: 1px solid #a6a6a6;
+}
+
+header{
+		margin:0;
+       padding:0;
+    height:70px;
+    background:BLANCHEDALMOND;
+    text-align:center;
+    line-height:50px;	
+}
+
+nav{
+	height:70px;
+	background:white;
+	padding:5px 20px;
+}
+
+
+.hover-menu a{
+	text-decoration:none;
+	color:grey;
+	margin-left: 12px;
+	padding: 15px 15px;
+}
+
+.hover-menu a:hover{
+	background:ghostwhite;
+	border: 1px solid ghostwhite;
+	border-radius:5px;
+}
+
+
+.one{
+	height:700px;
+}
+.left{
+	float:left;
+	width: 40%;
+	margin-top:160px;
+	padding: 5px 20px;
+}
+
+.right{
+	float:left;
+	width:46%;
+	margin-top:180px;
+	padding: 10px 25px;
+}
+
+.two{
+  height:500px;
+}
+.lefttwo{
+	float:left;
+	width:40%;
+	margin-top:120px;
+	padding:5px 20px;
+}
+
+.righttwo{
+	float:left;
+	width:46%;
+	margin-top:120px;
+    padding:5px 15px;
+}
+
+
+
+.three{
+  height:500px;
+}
+.leftthree{
+	float:right;
+	width:46%;
+	margin-top:120px;
+	padding: 10px 20px;
+}
+
+.rightthree{
+	float:left;
+	width:40%;
+	margin-top:120px;
+    padding:5px 10px;
+}
+
+
+.four{
+  height:500px;
+}
+.leftfour{
+	float:left;
+	width:46%;
+	margin-top:120px;
+	padding: 10px 20px;
+}
+
+.rightfour{
+	float:right;
+	width:40%;
+	margin-top:120px;
+    padding:5px 20px;
+}
+
+.five{
+	clear:both;
+    margin-top:180px;
+    background:white;
+    height:250px;
+	margin:0;
+       padding:0;
+    text-align:center;
+    line-height:50px;
+	 margin-bottom:100px;
+}
+
+.six{
+	clear:both;
+    background:white;
+    height:400px;
+	margin:0;
+     padding:0;
+    text-align:center;
+    line-height:50px;
+	margin-left:50px;
+	margin-right:50px;
+	border-top:50px solid ghostwhite;
+	border-bottom:150px solid ghostwhite;
+	border-left:150px solid ghostwhite;
+	border-right:150px solid ghostwhite;
+
+}
+
+.seven{
+	clear:both;
+  height:500px;
+}
+.leftseven{
+	float:right;
+	width:30%;
+	margin-top:120px;
+	padding:10px 20px;
+    line-height:50px;
+
+}
+
+.rightseven{
+	float:right;
+	width:50%;
+	margin-top:120px;
+    padding:10px 20px;
+}
+.eight{
+	clear:both;
+    height:200px;
+	margin:0;
+       padding:0;
+    text-align:center;
+    line-height:50px;
+}
+.img-hover img {
+	padding:5px 12px;
+	margin-left:20px;
+	
+}
+	
+.img-hover img:hover{
+	border: 1px solid #e6e6e6;
+	border-radius:4px;
+}
+.nine{
+	
+	margin-top:100px;
+    height:200px;
+       padding:0;
+    text-align:center;
+    line-height:50px;
+}
